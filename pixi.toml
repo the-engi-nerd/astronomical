@@ -11,3 +11,4 @@ platforms = ["osx-arm64"]
 [dependencies]
 python = "3.12.*"
 nbdev = ">=2.2.10,<3"
+jupyter = ">=1.0.0,<2"

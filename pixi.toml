@@ -1,0 +1,13 @@
+[project]
+name = "astronomical"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["F-35C GIGACHAD <the_engi_nerd@hey.com>"]
+channels = ["conda-forge"]
+platforms = ["osx-arm64"]
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+nbdev = ">=2.2.10,<3"
